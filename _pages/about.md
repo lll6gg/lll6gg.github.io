@@ -40,9 +40,8 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 **Zhengxi Lu**, Zhiyuan Yao, Jinyang Wu, Chengcheng Han, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[![](https://img.shields.io/badge/arXiv-2604.02268-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.02268)
+[![](https://img.shields.io/badge/Paper-arXiv:2604.02268-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.02268)
 [![](https://img.shields.io/github/stars/ZJU-REAL/SkillZero?style=social&label=Code)](https://github.com/ZJU-REAL/SkillZero)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:ULOm3_A8WrAC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AULOm3_A8WrAC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - We propose an in-context agentic RL framework that internalizes external tool-use skills into the policy itself, enabling agents to retain reusable behaviors across tasks without repeated demonstrations.
 </div>
 </div>
@@ -54,9 +53,8 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 **Zhengxi Lu**, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[![](https://img.shields.io/badge/arXiv-2605.15155-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.15155)
+[![](https://img.shields.io/badge/Paper-arXiv:2605.15155-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.15155)
 [![](https://img.shields.io/github/stars/ZJU-REAL/SDAR?style=social&label=Code)](https://github.com/ZJU-REAL/SDAR)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:dhFuZR0502QC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AdhFuZR0502QC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - A self-distillation pipeline that lets an agent improve through its own high-reward trajectories, bridging on-policy distillation and RL to stabilize long-horizon multi-step training.
 </div>
 </div>
@@ -68,9 +66,8 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 Yaorui Shi, Yuxin Chen, **Zhengxi Lu**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang Cai, Xiang Wang, An Zhang
 
-[![](https://img.shields.io/badge/arXiv-2605.06130-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.06130)
+[![](https://img.shields.io/badge/Paper-arXiv:2605.06130-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.06130)
 [![](https://img.shields.io/github/stars/ZJU-REAL/SkillZero?style=social&label=Code)](https://github.com/ZJU-REAL/SkillZero)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:9ZlFYXVOiuMC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3A9ZlFYXVOiuMC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - Jointly evolves the agent policy and its skill library through RL, allowing newly discovered skills and the controller to co-adapt instead of being optimized in isolation.
 </div>
 </div>
@@ -82,9 +79,8 @@ Yaorui Shi, Yuxin Chen, **Zhengxi Lu**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang
 
 Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **Zhengxi Lu**, Fan Zhang, Haoran Luo, Zheng Lian, Zhengqi Wen, Jianhua Tao
 
-[![](https://img.shields.io/badge/arXiv-2605.22177-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.22177)
+[![](https://img.shields.io/badge/Paper-arXiv:2605.22177-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.22177)
 [![](https://img.shields.io/github/stars/jinyangwu/Maestro?style=social&label=Code)](https://github.com/jinyangwu/Maestro)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:IWHjjKOFINEC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AIWHjjKOFINEC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - An RL-trained orchestrator that routes among heterogeneous models and skills in a hierarchical ensemble, trading compute for capability under per-task budgets.
 </div>
 </div>
@@ -97,9 +93,8 @@ Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **Zhengxi Lu**, Fan Zhang, Ha
 
 **Zhengxi Lu**, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shuai Ren, Guanjing Xiong, Hongsheng Li
 
-[![](https://img.shields.io/badge/arXiv-2503.21620-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.21620)
+[![](https://img.shields.io/badge/Paper-arXiv:2503.21620-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.21620)
 [![](https://img.shields.io/github/stars/lll6gg/UI-R1?style=social&label=Code)](https://github.com/lll6gg/UI-R1)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:hqOjcs7Dif8C'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AhqOjcs7Dif8C%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - The first work to apply rule-based reinforcement learning to GUI action prediction, improving the data efficiency and grounding accuracy of MLLM-based GUI agents.
 </div>
 </div>
@@ -111,9 +106,8 @@ Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **Zhengxi Lu**, Fan Zhang, Ha
 
 **Zhengxi Lu**, Yuxiang Chai, Yaxuan Guo, Hao Wang, Liang Liu, Shuai Ren, Han Xiao, Guanjing Xiong, Hongsheng Li, Xi Yin
 
-[![](https://img.shields.io/badge/arXiv-2509.11543-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.11543)
+[![](https://img.shields.io/badge/Paper-arXiv:2509.11543-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.11543)
 [![](https://img.shields.io/github/stars/X-PLUG/MobileAgent?style=social&label=Code)](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:W7OEmFMy1HYC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AW7OEmFMy1HYC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - A semi-online RL paradigm that mixes offline trajectories with on-policy rollouts to combine the stability of imitation with the exploration benefits of online RL for GUI agents.
 </div>
 </div>
@@ -125,9 +119,8 @@ Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **Zhengxi Lu**, Fan Zhang, Ha
 
 Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, **Zhengxi Lu**, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan
 
-[![](https://img.shields.io/badge/arXiv-2508.15144-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.15144)
+[![](https://img.shields.io/badge/Paper-arXiv:2508.15144-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.15144)
 [![](https://img.shields.io/github/stars/X-PLUG/MobileAgent?style=social&label=Code)](https://github.com/X-PLUG/MobileAgent)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:Tyk-4Ss8FVUC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3ATyk-4Ss8FVUC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - A foundation-agent framework for mobile GUI automation that unifies perception, planning, and execution roles, achieving strong performance across long-horizon real-device tasks.
 </div>
 </div>
@@ -139,9 +132,8 @@ Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zh
 
 Fei Tang, Zhangxuan Gu, **Zhengxi Lu**, Xuyang Liu, Shuheng Shen, Changhua Meng, Wen Wang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Jun Xiao, Yueting Zhuang
 
-[![](https://img.shields.io/badge/arXiv-2507.15846-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.15846)
+[![](https://img.shields.io/badge/Paper-arXiv:2507.15846-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.15846)
 [![](https://img.shields.io/github/stars/ZJU-REAL/GUI-G2?style=social&label=Code)](https://github.com/ZJU-REAL/GUI-G2)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:ufrVoPGSRksC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - Replaces binary hit/miss rewards with a Gaussian reward field over click coordinates, providing smoother gradients and substantially improving GUI grounding accuracy under RL.
 </div>
 </div>
@@ -153,9 +145,8 @@ Fei Tang, Zhangxuan Gu, **Zhengxi Lu**, Xuyang Liu, Shuheng Shen, Changhua Meng,
 
 **Zhengxi Lu**, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[![](https://img.shields.io/badge/arXiv-2604.13822-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.13822)
+[![](https://img.shields.io/badge/Paper-arXiv:2604.13822-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.13822)
 [![](https://img.shields.io/github/stars/ZJU-REAL/UI-Copilot?style=social&label=Code)](https://github.com/ZJU-REAL/UI-Copilot)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:aqlVkmm33-oC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AaqlVkmm33-oC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - Tool-integrated policy optimization that lets GUI agents call auxiliary tools mid-trajectory, extending effective horizon and credit assignment for long, multi-screen workflows.
 </div>
 </div>
@@ -167,9 +158,8 @@ Fei Tang, Zhangxuan Gu, **Zhengxi Lu**, Xuyang Liu, Shuheng Shen, Changhua Meng,
 
 Guangyi Liu, Pengxiang Zhao, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai, Yue Han, Shuai Ren, Hao Wang, Xiaoyu Liang, Wenhao Wang, Tianze Wu, Linghao Li, Hao Wang, Guanjing Xiong, **Zhengxi Lu**, Siheng Chen, Yong Liu, Hongsheng Li
 
-[![](https://img.shields.io/badge/arXiv-2504.19838-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.19838)
+[![](https://img.shields.io/badge/Paper-arXiv:2504.19838-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.19838)
 [![](https://img.shields.io/github/stars/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents?style=social&label=Code)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:8k81kl-MbHgC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3A8k81kl-MbHgC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - A comprehensive survey of LLM-powered GUI agents for phone automation, covering datasets, agent architectures, training paradigms, evaluation benchmarks, and open challenges.
 </div>
 </div>
@@ -181,9 +171,8 @@ Guangyi Liu, Pengxiang Zhao, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxia
 
 Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, Hao Wang, **Zhengxi Lu**, Shibo He, Wenchao Meng
 
-[![](https://img.shields.io/badge/arXiv-2504.13805-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.13805)
+[![](https://img.shields.io/badge/Paper-arXiv:2504.13805-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.13805)
 [![](https://img.shields.io/github/stars/lgy0404/LearnAct?style=social&label=Code)](https://github.com/lgy0404/LearnAct)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:mB3voiENLucC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AmB3voiENLucC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - Studies few-shot adaptation of mobile GUI agents from user demonstrations, accompanied by a unified benchmark that standardizes demonstration formats and evaluation protocols.
 </div>
 </div>
@@ -195,9 +184,8 @@ Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, H
 
 Yong Du, Yuchen Yan, Fei Tang, **Zhengxi Lu**, Chang Zong, Weiming Lu, Shengpei Jiang, Yongliang Shen
 
-[![](https://img.shields.io/badge/arXiv-2508.05615-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.05615)
+[![](https://img.shields.io/badge/Paper-arXiv:2508.05615-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.05615)
 [![](https://img.shields.io/github/stars/ZJU-REAL/gui-rcpo?style=social&label=Code)](https://github.com/ZJU-REAL/gui-rcpo)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:zYLM7Y9cAGgC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AzYLM7Y9cAGgC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - A label-free test-time RL approach that uses region-consistency among multiple predictions as a self-supervised reward to refine GUI grounding without ground-truth annotations.
 </div>
 </div>
@@ -209,9 +197,8 @@ Yong Du, Yuchen Yan, Fei Tang, **Zhengxi Lu**, Chang Zong, Weiming Lu, Shengpei 
 
 Pengxiang Zhao, Guangyi Liu, Yaozhen Liang, Weiqing He, **Zhengxi Lu**, Yuehao Huang, Yaxuan Guo, Kexin Zhang, Hao Wang, Liang Liu, Yong Liu
 
-[![](https://img.shields.io/badge/arXiv-2509.06477-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.06477)
+[![](https://img.shields.io/badge/Paper-arXiv:2509.06477-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.06477)
 [![](https://img.shields.io/github/stars/Pengxiang-zhao/MAS-Bench?style=social&label=Code)](https://github.com/Pengxiang-zhao/MAS-Bench)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wBu2GXEAAAAJ&citation_for_view=wBu2GXEAAAAJ:Y0pCki6q_DkC'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40google-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27wBu2GXEAAAAJ%3AY0pCki6q_DkC%27%5D.num_citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 - A unified benchmark for hybrid mobile GUI agents that can both interact via UI and invoke app shortcuts, providing fair comparison between pure-GUI and shortcut-augmented policies.
 </div>
 </div>
