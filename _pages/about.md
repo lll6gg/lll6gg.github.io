@@ -38,7 +38,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 [SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://arxiv.org/abs/2604.02268)
 
-**Zhengxi Lu**, Zhiyuan Yao, Jinyang Wu, Chengcheng Han, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+**<u>Zhengxi Lu</u>**, Zhiyuan Yao, Jinyang Wu, Chengcheng Han, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
 [![](https://img.shields.io/badge/Paper-arXiv:2604.02268-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.02268)
 [![](https://img.shields.io/github/stars/ZJU-REAL/SkillZero?style=social&label=Code)](https://github.com/ZJU-REAL/SkillZero)
@@ -51,7 +51,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 [SDAR: Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2605.15155)
 
-**Zhengxi Lu**, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+**<u>Zhengxi Lu</u>**, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
 [![](https://img.shields.io/badge/Paper-arXiv:2605.15155-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.15155)
 [![](https://img.shields.io/github/stars/ZJU-REAL/SDAR?style=social&label=Code)](https://github.com/ZJU-REAL/SkillZero)
@@ -64,7 +64,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 [SKILL1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://arxiv.org/abs/2605.06130)
 
-Yaorui Shi, Yuxin Chen, **Zhengxi Lu**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang Cai, Xiang Wang, An Zhang
+Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang Cai, Xiang Wang, An Zhang
 
 [![](https://img.shields.io/badge/Paper-arXiv:2605.06130-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.06130)
 [![](https://img.shields.io/github/stars/AlphaLab-USTC/Skill1?style=social&label=Code)](https://github.com/AlphaLab-USTC/Skill1)
@@ -72,8 +72,8 @@ Yaorui Shi, Yuxin Chen, **Zhengxi Lu**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang
 </div>
 </div>
 
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles](https://arxiv.org/abs/2605.22177), Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **Zhengxi Lu**, Fan Zhang, Haoran Luo, Zheng Lian, Zhengqi Wen, Jianhua Tao [![](https://img.shields.io/github/stars/jinyangwu/Maestro?style=social&label=Code)](https://github.com/jinyangwu/Maestro)
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](https://arxiv.org/abs/2603.15611), Aozhe Wang, Yuchen Yan, Nan Zhou, **Zhengxi Lu**, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/Code-A1?style=social&label=Code)](https://github.com/ZJU-REAL/Code-A1)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles](https://arxiv.org/abs/2605.22177), Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **<u>Zhengxi Lu</u>**, Fan Zhang, Haoran Luo, Zheng Lian, Zhengqi Wen, Jianhua Tao [![](https://img.shields.io/github/stars/jinyangwu/Maestro?style=social&label=Code)](https://github.com/jinyangwu/Maestro)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](https://arxiv.org/abs/2603.15611), Aozhe Wang, Yuchen Yan, Nan Zhou, **<u>Zhengxi Lu</u>**, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/Code-A1?style=social&label=Code)](https://github.com/ZJU-REAL/Code-A1)
 
 ## 🤖 MLLM Agents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='pub_images/uir1.png' alt="sym" width="100%"></div></div>
@@ -81,7 +81,7 @@ Yaorui Shi, Yuxin Chen, **Zhengxi Lu**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang
 
 [UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620)
 
-**Zhengxi Lu**, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shuai Ren, Guanjing Xiong, Hongsheng Li
+**<u>Zhengxi Lu</u>**, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shuai Ren, Guanjing Xiong, Hongsheng Li
 
 [![](https://img.shields.io/badge/Paper-arXiv:2503.21620-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.21620)
 [![](https://img.shields.io/github/stars/lll6gg/UI-R1?style=social&label=Code)](https://github.com/lll6gg/UI-R1)
@@ -94,7 +94,7 @@ Yaorui Shi, Yuxin Chen, **Zhengxi Lu**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang
 
 [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://arxiv.org/abs/2509.11543)
 
-**Zhengxi Lu**, Yuxiang Chai, Yaxuan Guo, Hao Wang, Liang Liu, Shuai Ren, Han Xiao, Guanjing Xiong, Hongsheng Li, Xi Yin
+**<u>Zhengxi Lu</u>**, Yuxiang Chai, Yaxuan Guo, Hao Wang, Liang Liu, Shuai Ren, Han Xiao, Guanjing Xiong, Hongsheng Li, Xi Yin
 
 [![](https://img.shields.io/badge/Paper-arXiv:2509.11543-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.11543)
 [![](https://img.shields.io/github/stars/X-PLUG/MobileAgent?style=social&label=Code)](https://github.com/X-PLUG/MobileAgent)
@@ -107,7 +107,7 @@ Yaorui Shi, Yuxin Chen, **Zhengxi Lu**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang
 
 [Mobile-Agent-v3: Fundamental Agents for GUI Automation](https://arxiv.org/abs/2508.15144)
 
-Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, **Zhengxi Lu**, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan
+Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, **<u>Zhengxi Lu</u>**, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan
 
 [![](https://img.shields.io/badge/Paper-arXiv:2508.15144-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.15144)
 [![](https://img.shields.io/github/stars/X-PLUG/MobileAgent?style=social&label=Code)](https://github.com/X-PLUG/MobileAgent)
@@ -120,7 +120,7 @@ Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zh
 
 [GUI-G²: Gaussian Reward Modeling for GUI Grounding](https://arxiv.org/abs/2507.15846)
 
-Fei Tang, Zhangxuan Gu, **Zhengxi Lu**, Xuyang Liu, Shuheng Shen, Changhua Meng, Wen Wang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Jun Xiao, Yueting Zhuang
+Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhua Meng, Wen Wang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Jun Xiao, Yueting Zhuang
 
 [![](https://img.shields.io/badge/Paper-arXiv:2507.15846-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.15846)
 [![](https://img.shields.io/github/stars/ZJU-REAL/GUI-G2?style=social&label=Code)](https://github.com/ZJU-REAL/GUI-G2)
@@ -133,7 +133,7 @@ Fei Tang, Zhangxuan Gu, **Zhengxi Lu**, Xuyang Liu, Shuheng Shen, Changhua Meng,
 
 [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://arxiv.org/abs/2604.13822)
 
-**Zhengxi Lu**, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+**<u>Zhengxi Lu</u>**, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
 [![](https://img.shields.io/badge/Paper-arXiv:2604.13822-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.13822)
 [![](https://img.shields.io/github/stars/ZJU-REAL/UI-Copilot?style=social&label=Code)](https://github.com/ZJU-REAL/UI-Copilot)
@@ -141,20 +141,20 @@ Fei Tang, Zhangxuan Gu, **Zhengxi Lu**, Xuyang Liu, Shuheng Shen, Changhua Meng,
 </div>
 </div>
 
-- ![](https://img.shields.io/badge/TMLR%202026-00369f?style=flat-square) [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838), Guangyi Liu, Pengxiang Zhao, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai, Yue Han, Shuai Ren, Hao Wang, Xiaoyu Liang, Wenhao Wang, Tianze Wu, Linghao Li, Hao Wang, Guanjing Xiong, **Zhengxi Lu**, Siheng Chen, Yong Liu, Hongsheng Li [![](https://img.shields.io/github/stars/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents?style=social&label=Code)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents)
-- ![](https://img.shields.io/badge/ACL%202026%20Findings-00369f?style=flat-square) [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805), Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, Hao Wang, **Zhengxi Lu**, Shibo He, Wenchao Meng [![](https://img.shields.io/github/stars/lgy0404/LearnAct?style=social&label=Code)](https://github.com/lgy0404/LearnAct)
-- ![](https://img.shields.io/badge/AAAI%202026-00369f?style=flat-square) [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615), Yong Du, Yuchen Yan, Fei Tang, **Zhengxi Lu**, Chang Zong, Weiming Lu, Shengpei Jiang, Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/gui-rcpo?style=social&label=Code)](https://github.com/ZJU-REAL/gui-rcpo)
-- ![](https://img.shields.io/badge/ACL%202026-00369f?style=flat-square) [MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](https://arxiv.org/abs/2509.06477), Pengxiang Zhao, Guangyi Liu, Yaozhen Liang, Weiqing He, **Zhengxi Lu**, Yuehao Huang, Yaxuan Guo, Kexin Zhang, Hao Wang, Liang Liu, Yong Liu [![](https://img.shields.io/github/stars/Pengxiang-zhao/MAS-Bench?style=social&label=Code)](https://github.com/Pengxiang-zhao/MAS-Bench)
-- ![](https://img.shields.io/badge/CVPR%202026-00369f?style=flat-square) [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](#), Fei Tang, Zhangxuan Gu, **Zhengxi Lu**, Shangzhan Zhang, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Yuchen Yan, Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang.
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075), Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Qinyi Luo, Shunye Tang, Yuxiang Chai, Weifeng Lin, Han Xiao, WenHao Wang, Siheng Chen, **Zhengxi Lu**, Gao Wu, Hao Wang, Liang Liu, Yong Liu
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://arxiv.org/abs/2604.08455), Tongbo Chen, ..., **Zhengxi Lu**, ..., Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/KnowU-Bench?style=social&label=Code)](https://github.com/ZJU-REAL/KnowU-Bench)
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://arxiv.org/abs/2604.14113), Fei Tang, Bofan Chen, **Zhengxi Lu**, Tongbo Chen, Songqin Nong, Tao Jiang, Wenhao Xu, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/UI-Zoomer?style=social&label=Code)](https://github.com/ZJU-REAL/UI-Zoomer)
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://arxiv.org/abs/2605.28534), Zheng Wu, Chengcheng Han, **Zhengxi Lu**, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Cai, Zhuosheng Zhang [![](https://img.shields.io/github/stars/Wuzheng02/GUI-CIDER?style=social&label=Code)](https://github.com/Wuzheng02/GUI-CIDER)
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [Label-free GUI Grounding via Confidence-guided Negative Reinforcement Learning](https://openreview.net/forum?id=Hghm8tVvbs), **Zhengxi Lu**, et al.
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">TMLR 2026</span> [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838), Guangyi Liu, Pengxiang Zhao, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai, Yue Han, Shuai Ren, Hao Wang, Xiaoyu Liang, Wenhao Wang, Tianze Wu, Linghao Li, Hao Wang, Guanjing Xiong, **<u>Zhengxi Lu</u>**, Siheng Chen, Yong Liu, Hongsheng Li [![](https://img.shields.io/github/stars/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents?style=social&label=Code)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">ACL 2026 Findings</span> [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805), Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, Hao Wang, **<u>Zhengxi Lu</u>**, Shibo He, Wenchao Meng [![](https://img.shields.io/github/stars/lgy0404/LearnAct?style=social&label=Code)](https://github.com/lgy0404/LearnAct)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">AAAI 2026</span> [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615), Yong Du, Yuchen Yan, Fei Tang, **<u>Zhengxi Lu</u>**, Chang Zong, Weiming Lu, Shengpei Jiang, Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/gui-rcpo?style=social&label=Code)](https://github.com/ZJU-REAL/gui-rcpo)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">ACL 2026</span> [MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](https://arxiv.org/abs/2509.06477), Pengxiang Zhao, Guangyi Liu, Yaozhen Liang, Weiqing He, **<u>Zhengxi Lu</u>**, Yuehao Huang, Yaxuan Guo, Kexin Zhang, Hao Wang, Liang Liu, Yong Liu [![](https://img.shields.io/github/stars/Pengxiang-zhao/MAS-Bench?style=social&label=Code)](https://github.com/Pengxiang-zhao/MAS-Bench)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">CVPR 2026</span> [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](#), Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Shangzhan Zhang, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Yuchen Yan, Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang.
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075), Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Qinyi Luo, Shunye Tang, Yuxiang Chai, Weifeng Lin, Han Xiao, WenHao Wang, Siheng Chen, **<u>Zhengxi Lu</u>**, Gao Wu, Hao Wang, Liang Liu, Yong Liu
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://arxiv.org/abs/2604.08455), Tongbo Chen, **<u>Zhengxi Lu</u>**, ..., Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/KnowU-Bench?style=social&label=Code)](https://github.com/ZJU-REAL/KnowU-Bench)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://arxiv.org/abs/2604.14113), Fei Tang, Bofan Chen, **<u>Zhengxi Lu</u>**, Tongbo Chen, Songqin Nong, Tao Jiang, Wenhao Xu, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/UI-Zoomer?style=social&label=Code)](https://github.com/ZJU-REAL/UI-Zoomer)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://arxiv.org/abs/2605.28534), Zheng Wu, Chengcheng Han, **<u>Zhengxi Lu</u>**, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Cai, Zhuosheng Zhang [![](https://img.shields.io/github/stars/Wuzheng02/GUI-CIDER?style=social&label=Code)](https://github.com/Wuzheng02/GUI-CIDER)
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Label-free GUI Grounding via Confidence-guided Negative Reinforcement Learning](https://openreview.net/forum?id=Hghm8tVvbs), **<u>Zhengxi Lu</u>**, et al.
 
 ## 🤖 Multimodal AI
-- ![](https://img.shields.io/badge/Preprint-00369f?style=flat-square) [M³-Verse: A "Spot the Difference" Challenge for Large Multimodal Models](https://arxiv.org/abs/2512.18735), Kewei Wei, Bocheng Hu, Jie Cao, Xiaohan Chen, **Zhengxi Lu**, Wubing Xia, Weili Xu, Jiaao Wu, Junchen He, Mingyu Jia, Ciyun Zhao, Ye Sun, Yizhi Li, Zhonghan Zhao, Jian Zhang, Gaoang Wang
-- ![](https://img.shields.io/badge/ICLR%202025-00369f?style=flat-square) [ProtPainter: Draw or Drag Protein via Topology-guided Diffusion](https://arxiv.org/abs/2504.14274), **Zhengxi Lu**, Shizhuo Cheng, Yuru Jiang, Yan Zhang, Min Zhang
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [M³-Verse: A "Spot the Difference" Challenge for Large Multimodal Models](https://arxiv.org/abs/2512.18735), Kewei Wei, Bocheng Hu, Jie Cao, Xiaohan Chen, **<u>Zhengxi Lu</u>**, Wubing Xia, Weili Xu, Jiaao Wu, Junchen He, Mingyu Jia, Ciyun Zhao, Ye Sun, Yizhi Li, Zhonghan Zhao, Jian Zhang, Gaoang Wang
+- <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">ICLR 2025</span> [ProtPainter: Draw or Drag Protein via Topology-guided Diffusion](https://arxiv.org/abs/2504.14274), **<u>Zhengxi Lu</u>**, Shizhuo Cheng, Yuru Jiang, Yan Zhang, Min Zhang
 
 # 🎖 Honors and Awards 
 
