@@ -25,7 +25,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 # 🔥 News
 - *2026.05*: &nbsp;🔥🔥 Our new work [SDAR](https://arxiv.org/abs/2605.15155) was released, featured as 🤗 HF Daily Paper #2!
 - *2026.05*: &nbsp;🔥🔥 Our new work [SKILL1](https://arxiv.org/abs/2605.06130) was released, featured as 🤗 HF Daily Paper #2!
-- *2026.05*: &nbsp;🎉🎉 Four papers were accepted by ACL 2026, see you in San Diego, US.
+- *2026.04*: &nbsp;🎉🎉 Four papers were accepted by ACL 2026, see you in San Diego, US.
 - *2026.04*: &nbsp;🔥🔥 Our new work [SKILL0](https://arxiv.org/abs/2604.02268) was released, featured as 🤗 HF Daily Paper #2!
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted by CVPR 2026.
 - *2025.11*: &nbsp;🎉🎉 Three papers were accepted by AAAI 2026.
