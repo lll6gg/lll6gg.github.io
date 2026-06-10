@@ -157,6 +157,7 @@ Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhu
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">ICLR 2025</span> [ProtPainter: Draw or Drag Protein via Topology-guided Diffusion](https://arxiv.org/abs/2504.14274), **<u>Zhengxi Lu</u>**, Shizhuo Cheng, Yuru Jiang, Yan Zhang, Min Zhang
 
 # 🎖 Honors and Awards 
+TBD
 
 # 📖 Educations
 - *2020.09 - 2024.06*: B.E student at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院).
