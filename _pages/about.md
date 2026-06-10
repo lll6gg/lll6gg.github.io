@@ -75,7 +75,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles](https://arxiv.org/abs/2605.22177), Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **<u>Zhengxi Lu</u>**, Fan Zhang, Haoran Luo, Zheng Lian, Zhengqi Wen, Jianhua Tao [![](https://img.shields.io/github/stars/jinyangwu/Maestro?style=social&label=Code)](https://github.com/jinyangwu/Maestro)
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](https://arxiv.org/abs/2603.15611), Aozhe Wang, Yuchen Yan, Nan Zhou, **<u>Zhengxi Lu</u>**, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen [![](https://img.shields.io/github/stars/ZJU-REAL/Code-A1?style=social&label=Code)](https://github.com/ZJU-REAL/Code-A1)
 
-## 🤖 MLLM Agents
+## 📱 MLLM Agents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='pub_images/uir1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -152,14 +152,14 @@ Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhu
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://arxiv.org/abs/2605.28534), Zheng Wu, Chengcheng Han, **<u>Zhengxi Lu</u>**, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Cai, Zhuosheng Zhang [![](https://img.shields.io/github/stars/Wuzheng02/GUI-CIDER?style=social&label=Code)](https://github.com/Wuzheng02/GUI-CIDER)
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Label-free GUI Grounding via Confidence-guided Negative Reinforcement Learning](https://openreview.net/forum?id=Hghm8tVvbs), **<u>Zhengxi Lu</u>**, et al.
 
-## 🤖 Multimodal AI
+## 🎨 Multimodal AI
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [M³-Verse: A "Spot the Difference" Challenge for Large Multimodal Models](https://arxiv.org/abs/2512.18735), Kewei Wei, Bocheng Hu, Jie Cao, Xiaohan Chen, **<u>Zhengxi Lu</u>**, Wubing Xia, Weili Xu, Jiaao Wu, Junchen He, Mingyu Jia, Ciyun Zhao, Ye Sun, Yizhi Li, Zhonghan Zhao, Jian Zhang, Gaoang Wang
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">ICLR 2025</span> [ProtPainter: Draw or Drag Protein via Topology-guided Diffusion](https://arxiv.org/abs/2504.14274), **<u>Zhengxi Lu</u>**, Shizhuo Cheng, Yuru Jiang, Yan Zhang, Min Zhang
 
 # 🎖 Honors and Awards 
 
 # 📖 Educations
-- *2020.09 - 2024.06 (now)*: B.E student at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院).
+- *2020.09 - 2024.06*: B.E student at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院).
 - *2024.09 - now*: Ph.D candidate at REAL Lab, Zhejiang University.
 
 # 💬 Invited Talks
