@@ -39,8 +39,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 **<u>Zhengxi Lu</u>**, Zhiyuan Yao, Jinyang Wu, Chengcheng Han, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[[Paper]](https://arxiv.org/abs/2604.02268)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/SkillZero%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/SkillZero)
+[[Paper]](https://arxiv.org/abs/2604.02268) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/SkillZero%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/SkillZero)
 - We propose an in-context agentic RL framework that internalizes external tool-use skills into the policy itself, enabling agents to retain reusable behaviors across tasks without repeated demonstrations.
 </div>
 </div>
@@ -52,8 +51,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 **<u>Zhengxi Lu</u>**, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[[Paper]](https://arxiv.org/abs/2605.15155)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/SDAR%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/SDAR)
+[[Paper]](https://arxiv.org/abs/2605.15155) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/SDAR%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/SDAR)
 - A self-distillation pipeline that lets an agent improve through its own high-reward trajectories, bridging on-policy distillation and RL to stabilize long-horizon multi-step training.
 </div>
 </div>
@@ -65,8 +63,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang Cai, Xiang Wang, An Zhang
 
-[[Paper]](https://arxiv.org/abs/2605.06130)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27AlphaLab-USTC/Skill1%27%5D&label=Code&style=social&logo=github)](https://github.com/AlphaLab-USTC/Skill1)
+[[Paper]](https://arxiv.org/abs/2605.06130) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27AlphaLab-USTC/Skill1%27%5D&label=Code&style=social&logo=github)](https://github.com/AlphaLab-USTC/Skill1)
 - Jointly evolves the agent policy and its skill library through RL, allowing newly discovered skills and the controller to co-adapt instead of being optimized in isolation.
 </div>
 </div>
@@ -82,8 +79,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 **<u>Zhengxi Lu</u>**, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shuai Ren, Guanjing Xiong, Hongsheng Li
 
-[[Paper]](https://arxiv.org/abs/2503.21620)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27lll6gg/UI-R1%27%5D&label=Code&style=social&logo=github)](https://github.com/lll6gg/UI-R1)
+[[Paper]](https://arxiv.org/abs/2503.21620) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27lll6gg/UI-R1%27%5D&label=Code&style=social&logo=github)](https://github.com/lll6gg/UI-R1)
 - The first work to apply rule-based reinforcement learning to GUI action prediction, improving the data efficiency and grounding accuracy of MLLM-based GUI agents.
 </div>
 </div>
@@ -95,8 +91,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 **<u>Zhengxi Lu</u>**, Jiabo Ye, Fei Tang, Yongliang Shen, Haiyang Xu, Ziwei Zheng, Weiming Lu, Ming Yan, Fei Huang, Jun Xiao, Yueting Zhuang
 
-[[Paper]](https://arxiv.org/abs/2509.11543)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27X-PLUG/MobileAgent%27%5D&label=Code&style=social&logo=github)](https://github.com/X-PLUG/MobileAgent)
+[[Paper]](https://arxiv.org/abs/2509.11543) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27X-PLUG/MobileAgent%27%5D&label=Code&style=social&logo=github)](https://github.com/X-PLUG/MobileAgent)
 - A semi-online RL paradigm that mixes offline trajectories with on-policy rollouts to combine the stability of imitation with the exploration benefits of online RL for GUI agents.
 </div>
 </div>
@@ -108,8 +103,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, **<u>Zhengxi Lu</u>**, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan
 
-[[Paper]](https://arxiv.org/abs/2508.15144)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27X-PLUG/MobileAgent%27%5D&label=Code&style=social&logo=github)](https://github.com/X-PLUG/MobileAgent)
+[[Paper]](https://arxiv.org/abs/2508.15144) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27X-PLUG/MobileAgent%27%5D&label=Code&style=social&logo=github)](https://github.com/X-PLUG/MobileAgent)
 - A foundation-agent framework for mobile GUI automation that unifies perception, planning, and execution roles, achieving strong performance across long-horizon real-device tasks.
 </div>
 </div>
@@ -121,8 +115,7 @@ Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zh
 
 Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhua Meng, Wen Wang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Jun Xiao, Yueting Zhuang
 
-[[Paper]](https://arxiv.org/abs/2507.15846)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/GUI-G2%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/GUI-G2)
+[[Paper]](https://arxiv.org/abs/2507.15846) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/GUI-G2%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/GUI-G2)
 - Replaces binary hit/miss rewards with a Gaussian reward field over click coordinates, providing smoother gradients and substantially improving GUI grounding accuracy under RL.
 </div>
 </div>
@@ -134,8 +127,7 @@ Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhu
 
 **<u>Zhengxi Lu</u>**, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[[Paper]](https://arxiv.org/abs/2604.13822)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/UI-Copilot%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/UI-Copilot)
+[[Paper]](https://arxiv.org/abs/2604.13822) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/UI-Copilot%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/UI-Copilot)
 - Tool-integrated policy optimization that lets GUI agents call auxiliary tools mid-trajectory, extending effective horizon and credit assignment for long, multi-screen workflows.
 </div>
 </div>
