@@ -79,7 +79,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
