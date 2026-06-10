@@ -162,8 +162,12 @@ Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhu
 - *2020.09 - 2024.06*: B.E student at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院).
 - *2024.09 - now*: Ph.D candidate at REAL Lab, Zhejiang University.
 
-# 💬 Invited Talks
-- *2026.5.24*, giving a talk about skills invited by ZJU AI Talk. [Link](https://mp.weixin.qq.com/s/YBJKW8RJ8aB06Jo6Ufi6xQ).
+# 💬 Mics
+- **Invited Talks**: giving a talk about skills invited by ZJU AI Talk on 2026.5.24. [Link](https://mp.weixin.qq.com/s/YBJKW8RJ8aB06Jo6Ufi6xQ).
+- **Reviewers**: ACMMM 2025, AAAI 2026, ICLR 2026, CVPR 2026, ECCV 2026, Nuerips 2026.
+
+# 🔍 Services
+- *2025*: serving as a reviewer for ACMMM 2025,
 
 # 💻 Internships
 - *2025.03 - 2025.06*: Research Intern at Vivo AI Lab, advised by [Liang Liu](https://scholar.google.com/citations?hl=zh-CN&user=Kkg3IPMAAAAJ).
