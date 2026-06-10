@@ -11,8 +11,8 @@
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var numCitations = (data['publications'][paperId] || {})['num_citations'] || 0
+                element.innerHTML = '<span style="color:white;background-color:#00369f;padding:0 0.5em;font-size:0.8em;border-radius:3px;">Citation: ' + numCitations + '</span>';
             });
         });
     })
