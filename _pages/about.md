@@ -39,7 +39,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 **<u>Zhengxi Lu</u>**, Zhiyuan Yao, Jinyang Wu, Chengcheng Han, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[![](https://img.shields.io/badge/Paper-arXiv:2604.02268-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.02268)
+[Paper](https://arxiv.org/abs/2604.02268)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/SkillZero%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/SkillZero)
 - We propose an in-context agentic RL framework that internalizes external tool-use skills into the policy itself, enabling agents to retain reusable behaviors across tasks without repeated demonstrations.
 </div>
@@ -52,7 +52,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 **<u>Zhengxi Lu</u>**, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[![](https://img.shields.io/badge/Paper-arXiv:2605.15155-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.15155)
+[Paper](https://arxiv.org/abs/2605.15155)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/SDAR%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/SDAR)
 - A self-distillation pipeline that lets an agent improve through its own high-reward trajectories, bridging on-policy distillation and RL to stabilize long-horizon multi-step training.
 </div>
@@ -65,7 +65,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, Xunliang Cai, Xiang Wang, An Zhang
 
-[![](https://img.shields.io/badge/Paper-arXiv:2605.06130-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.06130)
+[Paper](https://arxiv.org/abs/2605.06130)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27AlphaLab-USTC/Skill1%27%5D&label=Code&style=social&logo=github)](https://github.com/AlphaLab-USTC/Skill1)
 - Jointly evolves the agent policy and its skill library through RL, allowing newly discovered skills and the controller to co-adapt instead of being optimized in isolation.
 </div>
@@ -73,6 +73,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles](https://arxiv.org/abs/2605.22177), Jinyang Wu, Guocheng Zhai, Ruihan Jin, Yuhao Shen, **<u>Zhengxi Lu</u>**, Fan Zhang, Haoran Luo, Zheng Lian, Zhengqi Wen, Jianhua Tao [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27jinyangwu/Maestro%27%5D&label=Code&style=social&logo=github)](https://github.com/jinyangwu/Maestro) 
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](https://arxiv.org/abs/2603.15611), Aozhe Wang, Yuchen Yan, Nan Zhou, **<u>Zhengxi Lu</u>**, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/Code-A1%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/Code-A1) 
+
 ## 📱 MLLM Agents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='pub_images/uir1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,7 +82,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 **<u>Zhengxi Lu</u>**, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shuai Ren, Guanjing Xiong, Hongsheng Li
 
-[![](https://img.shields.io/badge/Paper-arXiv:2503.21620-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.21620)
+[Paper](https://arxiv.org/abs/2503.21620)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27lll6gg/UI-R1%27%5D&label=Code&style=social&logo=github)](https://github.com/lll6gg/UI-R1)
 - The first work to apply rule-based reinforcement learning to GUI action prediction, improving the data efficiency and grounding accuracy of MLLM-based GUI agents.
 </div>
@@ -94,7 +95,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 **<u>Zhengxi Lu</u>**, Jiabo Ye, Fei Tang, Yongliang Shen, Haiyang Xu, Ziwei Zheng, Weiming Lu, Ming Yan, Fei Huang, Jun Xiao, Yueting Zhuang
 
-[![](https://img.shields.io/badge/Paper-arXiv:2509.11543-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.11543)
+[Paper](https://arxiv.org/abs/2509.11543)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27X-PLUG/MobileAgent%27%5D&label=Code&style=social&logo=github)](https://github.com/X-PLUG/MobileAgent)
 - A semi-online RL paradigm that mixes offline trajectories with on-policy rollouts to combine the stability of imitation with the exploration benefits of online RL for GUI agents.
 </div>
@@ -107,7 +108,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, **<u>Zhengxi Lu</u>**, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan
 
-[![](https://img.shields.io/badge/Paper-arXiv:2508.15144-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.15144)
+[Paper](https://arxiv.org/abs/2508.15144)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27X-PLUG/MobileAgent%27%5D&label=Code&style=social&logo=github)](https://github.com/X-PLUG/MobileAgent)
 - A foundation-agent framework for mobile GUI automation that unifies perception, planning, and execution roles, achieving strong performance across long-horizon real-device tasks.
 </div>
@@ -120,7 +121,7 @@ Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zh
 
 Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhua Meng, Wen Wang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Jun Xiao, Yueting Zhuang
 
-[![](https://img.shields.io/badge/Paper-arXiv:2507.15846-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.15846)
+[Paper](https://arxiv.org/abs/2507.15846)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/GUI-G2%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/GUI-G2)
 - Replaces binary hit/miss rewards with a Gaussian reward field over click coordinates, providing smoother gradients and substantially improving GUI grounding accuracy under RL.
 </div>
@@ -133,7 +134,7 @@ Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhu
 
 **<u>Zhengxi Lu</u>**, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
-[![](https://img.shields.io/badge/Paper-arXiv:2604.13822-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.13822)
+[Paper](https://arxiv.org/abs/2604.13822)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/UI-Copilot%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/UI-Copilot)
 - Tool-integrated policy optimization that lets GUI agents call auxiliary tools mid-trajectory, extending effective horizon and credit assignment for long, multi-screen workflows.
 </div>
