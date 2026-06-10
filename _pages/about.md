@@ -94,7 +94,7 @@ Yaorui Shi, Yuxin Chen, **<u>Zhengxi Lu</u>**, Yuchun Miao, Shugui Liu, Qi Gu, X
 
 [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://arxiv.org/abs/2509.11543)
 
-**<u>Zhengxi Lu</u>**, Yuxiang Chai, Yaxuan Guo, Hao Wang, Liang Liu, Shuai Ren, Han Xiao, Guanjing Xiong, Hongsheng Li, Xi Yin
+**<u>Zhengxi Lu</u>**, Jiabo Ye, Fei Tang, Yongliang Shen, Haiyang Xu, Ziwei Zheng, Weiming Lu, Ming Yan, Fei Huang, Jun Xiao, Yueting Zhuang
 
 [![](https://img.shields.io/badge/Paper-arXiv:2509.11543-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.11543)
 [![](https://img.shields.io/github/stars/X-PLUG/MobileAgent?style=social&label=Code)](https://github.com/X-PLUG/MobileAgent)
