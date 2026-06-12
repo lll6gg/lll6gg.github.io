@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a 2nd-year Phd candidate at [REAL LAB](https://zju-real.github.io), Zhejiang University, advised by [Yongliang Shen](https://person.zju.edu.cn/shenyongliang). Prior to this, I earned my B.E degree from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) at 2024.
+I'm currently a 2nd-year Ph.D candidate at [REAL LAB](https://zju-real.github.io), Zhejiang University, advised by [Yongliang Shen](https://person.zju.edu.cn/shenyongliang). Prior to this, I earned my B.E degree from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) at 2024.
 
 My research interests focus on AI Agents and LLM Post Training (RL included). My earlier work in 2025 focused on RL for GUI Agents, and my current research investigates Post-Training techniques for General Agents, including agent skills, on-policy distillation (OPD) and reinforcement learning (RL).
 
