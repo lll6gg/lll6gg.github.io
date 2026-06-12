@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhengxi Lu"
-description              : "Contact me at zhengxilu@zju.edu.cn"
+description              : "zhengxilu@zju.edu.cn"
 repository               : "lll6gg/lll6gg.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhengxi Lu (卢政希)"
   avatar           : "images/profile.jpg"
-  bio              : "PhD Candidate"
+  bio              : "Ph.D Candidate @ ZJU"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   pubmed           : 
