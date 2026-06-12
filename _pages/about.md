@@ -21,6 +21,10 @@ I'm currently a 2nd-year Phd candidate at [REAL LAB](https://zju-real.github.io)
 
 My research interests focus on AI Agents and LLM Post Training (RL included). My earlier work in 2025 focused on RL for GUI Agents, and my current research investigates Post-Training techniques for General Agents, including agent skills, on-policy distillation (OPD) and reinforcement learning (RL).
 
+📢 I'm actively seeking research-internship opportunities in industry on the topics above. Feel free to reach out if there might be a fit.
+
+🐈 Our lab is also recruiting remote / on-site interns — undergraduate and Master's students are warmly welcomed! See [Join](https://zju-real.github.io/join.html).
+
 # 🔥 News
 - *2026.05*: &nbsp;🔥🔥 Our new work [SDAR](https://arxiv.org/abs/2605.15155) was released, featured as 🤗 HF Daily Paper #2!
 - *2026.05*: &nbsp;🔥🔥 Our new work [SKILL1](https://arxiv.org/abs/2605.06130) was released, featured as 🤗 HF Daily Paper #2!
@@ -147,15 +151,15 @@ Fei Tang, Zhangxuan Gu, **<u>Zhengxi Lu</u>**, Xuyang Liu, Shuheng Shen, Changhu
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">ICLR 2025 / AI4Drug @ NIPS'24</span> [ProtPainter: Draw or Drag Protein via Topology-guided Diffusion](https://arxiv.org/abs/2504.14274), **<u>Zhengxi Lu</u>**, Shizhuo Cheng, Yuru Jiang, Yan Zhang, Min Zhang
 - <span style="color:white;background-color:#00369f;padding:0 0.6em;font-size:0.8em;">Preprint</span> [M³-Verse: A "Spot the Difference" Challenge for Large Multimodal Models](https://arxiv.org/abs/2512.18735), Kewei Wei, Bocheng Hu, Jie Cao, Xiaohan Chen, **<u>Zhengxi Lu</u>**, Wubing Xia, Weili Xu, Jiaao Wu, Junchen He, Mingyu Jia, Ciyun Zhao, Ye Sun, Yizhi Li, Zhonghan Zhao, Jian Zhang, Gaoang Wang 
 
-<!-- 
+
 # 🎖 Honors and Awards 
-TBD -->
+- Second-Class Scholarship of Zhejiang University, 2021, 2022, 2023.
 
 # 📖 Educations
 - *2020.09 - 2024.06*: B.E student at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院).
 - *2024.09 - now*: Ph.D candidate at REAL Lab, Zhejiang University.
 
-# 💬 Mics
+# 💬 Misc
 - **Invited Talks**: 
   - *2026.5.24*: I gave a talk about skills invited by ZJU AI Talk. [Link](https://mp.weixin.qq.com/s/YBJKW8RJ8aB06Jo6Ufi6xQ).
 - **Reviewers**:
