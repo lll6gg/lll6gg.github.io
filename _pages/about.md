@@ -26,8 +26,9 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 🐈 Our lab is also recruiting remote / on-site interns — undergraduate and Master's students are warmly welcomed! See [Join](https://zju-real.github.io/join.html).
 
 # 🔥 News
+- *2026.07*: &nbsp;🔥🔥 Our new work [SEED](https://arxiv.org/abs/2607.14777) was released, introducing self-evolving OPD beyond [SDAR](https://arxiv.org/abs/2605.15155). Featured as 🤗 HF Daily Paper #3!
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACMMM 2026.
-- *2026.06*: &nbsp;🔥🔥 Our new work [OPID](https://arxiv.org/abs/2606.26790) and [DEAR](https://arxiv.org/abs/2606.22830) were released, about opd.
+- *2026.06*: &nbsp;🔥🔥 Our new work [OPID](https://arxiv.org/abs/2606.26790) and [DEAR](https://arxiv.org/abs/2606.22830) were released, about OPD.
 - *2026.06*: &nbsp;🎉🎉 One paper was accepted by ECCV 2026.
 - *2026.05*: &nbsp;🔥🔥 Our new work [SDAR](https://arxiv.org/abs/2605.15155) was released, featured as 🤗 HF Daily Paper #2!
 - *2026.05*: &nbsp;🔥🔥 Our new work [SKILL1](https://arxiv.org/abs/2605.06130) was released, featured as 🤗 HF Daily Paper #2!
@@ -61,6 +62,18 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 
 [[Paper]](https://arxiv.org/abs/2605.15155) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27ZJU-REAL/SDAR%27%5D&label=Code&style=social&logo=github)](https://github.com/ZJU-REAL/SDAR)
 - A self-distillation pipeline that lets an agent improve through its own high-reward trajectories, bridging on-policy distillation and RL to stabilize long-horizon multi-step training.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='pub_images/seed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.14777)
+
+Jinyang Wu, Shuo Yang, **<u>Zhengxi Lu</u>**, Fan Zhang, Yuhao Shen, Lang Feng, Haoran Luo, Zheng Lian, Shuai Zhang, Zhengqi Wen, Jianhua Tao
+
+[[Paper]](https://arxiv.org/abs/2607.14777) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flll6gg%2Flll6gg.github.io%40github-star-stats%2Fstar_counts.json&query=%24%5B%27jinyangwu/SEED%27%5D&label=Code&style=social&logo=github)](https://github.com/jinyangwu/SEED)
+- A self-evolving framework where one policy checkpoint plays two synchronized roles — acting in the environment and analyzing its own completed trajectories into natural-language hindsight skills — then distills the skill-induced action-probability shift back into the policy, closing the supervision gap between sparse outcome rewards and token-level learning.
 </div>
 </div>
 
