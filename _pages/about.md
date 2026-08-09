@@ -26,6 +26,7 @@ My research interests focus on AI Agents and LLM Post Training (RL included). My
 🐈 Our lab is also recruiting remote / on-site interns — undergraduate and Master's students are warmly welcomed! See [Join](https://zju-real.github.io/join.html).
 
 # 🔥 News
+- *2026.08*: &nbsp;🔥🔥 Our new work [AgentOPSD](https://arxiv.org/abs/2608.05987) was released, introducing recursive credit update for SDAR. Featured as 🤗 HF Daily Paper #1!
 - *2026.07*: &nbsp;🔥🔥 Our new work [SEED](https://arxiv.org/abs/2607.14777) was released, introducing self-evolving OPD beyond [SDAR](https://arxiv.org/abs/2605.15155). Featured as 🤗 HF Daily Paper #3!
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACMMM 2026.
 - *2026.06*: &nbsp;🔥🔥 Our new work [OPID](https://arxiv.org/abs/2606.26790) and [DEAR](https://arxiv.org/abs/2606.22830) were released, about OPD.
