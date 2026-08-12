@@ -21,9 +21,7 @@ I'm currently a 2nd-year Ph.D candidate at [REAL LAB](https://zju-real.github.io
 
 My research interests focus on AI Agents and LLM Post Training (RL included). My earlier work in 2025 focused on RL for GUI Agents, and my current research investigates Post-Training techniques for General Agents, including agent skills, on-policy distillation (OPD) and reinforcement learning (RL).
 
-📢 I'm actively seeking research-internship opportunities in industry on the topics above. Feel free to reach out if there might be a fit.
-
-🐈 Our lab is also recruiting remote / on-site interns — undergraduate and Master's students are warmly welcomed! See [Join](https://zju-real.github.io/join.html).
+🐈 Our lab is also recruiting on-site interns — undergraduate and Master's students are warmly welcomed! See [Join](https://zju-real.github.io/join.html).
 
 # 🔥 News
 - *2026.08*: &nbsp;🔥🔥 Our new work [AgentOPSD](https://arxiv.org/abs/2608.05987) was released, introducing recursive credit update for SDAR. Featured as 🤗 HF Daily Paper #1!
